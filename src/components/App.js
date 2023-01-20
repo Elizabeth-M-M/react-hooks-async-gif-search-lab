@@ -15,4 +15,3 @@ function App() {
 }
 
 export default App;
-// https://api.giphy.com/v1/gifs/search?q=dolphin&api_key=0cK05ZV1NYwbd4ii50tG5vwBJ2bHBQVd&rating=g

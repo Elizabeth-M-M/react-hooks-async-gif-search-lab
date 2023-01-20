@@ -15,7 +15,8 @@ const GifSearch = ({onSubmit}) => {
       <p>Enter a search Term:</p>
       <form onSubmit={handleSubmit} >
         <input type="text" value={search} onChange={handleChange} />
-        <button style={{backgroundColor:"green", color:"white"}} type='submit'>Find Gifs</button>
+        <button style={{
+          backgroundColor:"green", color:"white"}} type='submit'>Find Gifs</button>
       </form>
     </div>
   )
